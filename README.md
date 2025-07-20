@@ -120,15 +120,4 @@ This project is licensed under the MIT License.
 
 ## 🙏 Stay Calm
 
-If you find this project helpful, consider ⭐️ starring the repo and sharing it with friends who need more mindfulness in their day.
 
----
-
-If you wish, I can also prepare:
-
-✅ A matching **`requirements.txt`** (FastAPI, LangChain, etc.)
-✅ An **`run_agent.py` starter script** for CLI-based agentic meditation guidance
-✅ A **`LICENSE` file**
-✅ A **GitHub Actions CI workflow** for lint/test
-
-to make your Meditation Agentic AI repo immediately launchable for your open-source workflow. 
